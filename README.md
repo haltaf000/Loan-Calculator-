@@ -1,6 +1,6 @@
 # Loan-Calculator
 
-This is a testing project I am using to experiment with while developing another project. Main project will be an app that uses machine learning and AI to project personal finances, etc... The purpose of this is optimize the data for a consistent performance. 
+This is a testing project used to experiment on while prime project is in development. Main project will be an app and website that uses machine learning and AI to project personal finances, etc... The purpose of this is optimize the data for a consistent performance. 
 
 The project uses Linear Regression, RandomforestClassifier, and Descision Tree Classifier to predict the allocation of loans to people from different walks of life. The models are conpared using three different performance measures - confusion matrix, mean-absolute-error, and accuracy score.
 
@@ -19,3 +19,5 @@ TBA
 
 ## Acknowledgements
 Data scraped from Capital One after permission.
+
+## Let's work together
