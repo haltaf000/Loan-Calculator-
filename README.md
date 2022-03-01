@@ -1,12 +1,15 @@
 # Loan-Calculator
 
+## Overview
+
 This is a testing project used to experiment on while prime project is in development. Main project will be an app and website that uses machine learning and AI to project personal finances, etc... The purpose of this is optimize the data for a consistent performance. 
 
 The project uses Linear Regression, RandomforestClassifier, and Descision Tree Classifier to predict the allocation of loans to people from different walks of life. The models are conpared using three different performance measures - confusion matrix, mean-absolute-error, and accuracy score.
 
-## Installation 
+## Data Collection and Exploration
 
-The project uses Python 3.9 and its appropriate libraries including numpy, pandas, spacy, and scikit-learn.
+Data scraped from Capital One after permission.
+
 
 ## Purpose
 
@@ -14,10 +17,10 @@ Seek knowledge into aspects of loan allocation to individuals in need. Questions
 
 After deliberation, the best models were classifiers. In the instance to test the individual aspect of loan determination to a specific person, linear regression was used. 
 
-## Outcome 
+## Risk and Assumptions
 TBA
 
-## Acknowledgements
-Data scraped from Capital One after permission.
+## The Models
 
-## Let's work together
+
+## Discussion
