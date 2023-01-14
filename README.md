@@ -1,6 +1,6 @@
 <h1> Loan-Calculator </h1>
 
-</h2> Overview </h2>
+<h2> Overview </h2>
 
 <p>Seeking a loan is a arduous process. All of us are curious if we fullfill the requriements. I wonder if it's possible to predict if a certain individual can qualify for a loan. Does gender and age play affect the likelihood of a loan allocation? What about your level of income and family status? These are some of the questions I explore while building my models.</p>
 
