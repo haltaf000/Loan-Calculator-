@@ -6,7 +6,7 @@
 
 <h2> Data Collection and Exploration </h2>
 
-
+<p> Data used for this project came from Capital One Bank. 
 
 
 <h2> Purpose </h2>
